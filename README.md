@@ -26,4 +26,4 @@ La kata se ha repetido en 3 ramas para consolidar la estructura:
 * **`develop3`**: Preparación final, README y grabación del vídeo.
 
 ## Vídeo explicativo
-[AÑADIR_ENLACE_AQUI]
+https://drive.google.com/file/d/1AkyNOc5hoiFglcXR5aTRJ8TE8CoB2Ch5/view?usp=drive_link
